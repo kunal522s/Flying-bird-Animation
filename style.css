@@ -4,14 +4,14 @@
     box-sizing:border-box;
 }
 body{
-    background:url(../Images/bg1.jpg);
+    background:url(Images/bg1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
 }
 
 .eagle{
-    background:url(../Images/birdflying.png);
+    background:url(Images/birdflying.png);
     width: 240px;
     height:207px;
      animation: fly 1s steps(5) infinite ,
